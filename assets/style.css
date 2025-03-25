@@ -7,7 +7,7 @@
 /* adjusting fonts */
 
 body {
-	background: lightpink;
+	background-color: lightpink;
 	font-family: -apple-system, BlinkMacSystemFont, helvetica, arial, sans-serif;
 	transition: background 500ms ease;
 }
